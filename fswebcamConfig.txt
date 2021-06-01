@@ -1,0 +1,7 @@
+device		/dev/video2
+resolution	1366x768
+skip		2
+
+banner-colour	#FF000000
+line-colour		#FF000000
+no-shadow
